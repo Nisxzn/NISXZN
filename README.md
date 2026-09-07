@@ -147,9 +147,9 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <div align="center">
 
-<img src = "https://github-readme-stats.shion.dev/api?username=nisxzn&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.shion.dev/api?username=nisxzn&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisxzn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
 </div>
