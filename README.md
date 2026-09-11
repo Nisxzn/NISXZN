@@ -121,17 +121,17 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### Cloud & Tools
+### AI/ML
 
-<img src="https://skillicons.dev/icons?i=aws,git,vscode,docker,androidstudio,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow"/>
 
 </td>
 
 <td width="50%" align="center">
 
-### DevOps
+### Cloud
 
-<img src="https://skillicons.dev/icons?i=fastapi,anaconda,github,linux,bash"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare"/>
 
 </td>
 
@@ -141,13 +141,22 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### AI/ML
+### Tools
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,github,androidstudio"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=fastapi,anaconda,linux,bash"/>
 
 </td>
 
 </tr>
+
 
 </table>
 
