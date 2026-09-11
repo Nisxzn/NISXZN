@@ -81,17 +81,17 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### Programming Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,c,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,php,c,js,typescript"/>
 
 </td>
 
 <td width="50%" align="center">
 
-### Frameworks & Libraries
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap,threejs"/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap,threejs"/>
 
 </td>
 
@@ -101,9 +101,9 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### AI / Data Technologies
+### Backend
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,expressjs,flask"/>
 
 </td>
 
@@ -129,9 +129,21 @@ My interests include <b>Artificial Intelligence, Data Science, Machine Learning,
 
 <td width="50%" align="center">
 
-### Development Areas
+### DevOps
 
 <img src="https://skillicons.dev/icons?i=fastapi,anaconda,github,linux,bash"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### AI/ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn"/>
 
 </td>
 
